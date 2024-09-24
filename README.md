@@ -1,7 +1,3 @@
-# s3-bucket-hosting
-s3 bucket hosting through ( CLI ) method for a ( static web hosting ).
-
-
 # 🌍 Abu Fatima Zohra Travel and Tours S3 Upload Documentation 🧳✈️
 
 ## 📄 Introduction
