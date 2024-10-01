@@ -1,4 +1,4 @@
-# 🌍 Abu Fatima Zohra Travel and Tours S3 Upload Documentation 🧳✈️
+# Abu Fatima Zohra Travel and Tours S3 Upload Documentation 
 
 ## 📄 Introduction
 This document outlines the steps to configure AWS CLI and upload files and folders to an S3 bucket, specifically to the bucket `abufatimatuzahratravelandtour.com`.
